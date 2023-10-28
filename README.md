@@ -1,12 +1,12 @@
 
-# Animated piano keyboard 
+# animated piano keyboard 
 
 Mirrors your 88-note midi keyboard, reflecting what you play, as you play it. Use it in conjunction with any vst-host or DAW.
 
 
 ## Acknowledgements
 
- - Chat-GPT and BingAI
+ - AI tools
 
 
 ## Authors
