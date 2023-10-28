@@ -16,7 +16,7 @@ Mirrors your 88-note midi keyboard, reflecting what you play, as you play it. Us
 
 ## Installation
 
-Clone from GitHub
+Clone from GitHub. Then...
 
 ```
 cd pianovizz
