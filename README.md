@@ -1,5 +1,5 @@
 
-# Animated piano keyboard 
+# PianoVizz - an animated piano keyboard 
 
 Mirrors your 88-note midi keyboard, reflecting what you play, as you play it. Use it in conjunction with any vst-host or DAW.
 
